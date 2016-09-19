@@ -48,7 +48,7 @@ A Collection of Code Samples Written in C++, Java, Python, Perl and Awk.
 
 ## Meta
 
-Your Name – [@dylanpars](https://twitter.com/dylanpars) – Dylan@dylanparsons.com
+Dylan A Parsons – [@dylanpars](https://twitter.com/dylanpars) – Dylan@dylanparsons.com
 
 Distributed under the  GNU GENERAL PUBLIC LICENSE, version 3. See ``LICENSE`` for more information.
 
