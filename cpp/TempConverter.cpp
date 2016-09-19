@@ -42,14 +42,3 @@ int main()
 	return 0;
 
 }
-
-/*
-Output for TempConverter:
-og8811os$ g++ TempConverter.cpp -o TempConverter
-og8811os$ ./TempConverter
-
-Please enter a Celsius temperature. -> 0
-
-0 degrees Celsius is equivalent to 32 degrees Fahrenheit.
-32 degrees Fahrenheit is equivalent to 0 degrees Celsius.
-*/
