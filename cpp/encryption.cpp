@@ -5,8 +5,8 @@
 using namespace std;
 
 void read_chunk(ifstream& inRead, char **array, int key);
-// The read_chunk function will require an input file stream, a dynamic 2-D
-// array of characters, a dynamic 2-D array and a user specified integer, less
+// The read_chunk function will require an input file stream, a 2-D
+// array of characters and a user specified integer, less
 // than 10 to determine the size of the array. Reading the contents of the array from
 // the input file from the input stream and place individual characters in the 2-D array.
 
@@ -17,7 +17,7 @@ void transpose(char **array, int key);
 
 void write_chunk(ofstream& outWrite, char **array, int key);
 // The write_chunk function will require an output file stream, a dynamic 2-D array
-// and a user specified integer, less than 10 to determine the size of the array. 
+// and a user specified integer to determine the size of the array. 
 // Writing the contents of the array repeatedly to the output file from the output stream.
 
 
