@@ -39,7 +39,7 @@ def rename(file):
 			os.rename(j, i[1])
 			print("Filename has been successfully changed.")
 		else:
-			print("Invalid argument for the Remove command.")
+			print("Invalid argument for the Rename command.")
 
 def statement():
 	print("Welcome to the DYSH SHELL, enter HELP for a list of commands.\nRemember that commands are case sensitive.")
