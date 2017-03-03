@@ -36,8 +36,6 @@ A Collection of Code Samples Written in C++, Java, Python, Perl and Awk.
 
 ## Python
 
-* clock.py
-    * A clock simulation created with Turtle Graphics and the Tkinter Module.
 * dysh.py
     * A command interpreter written in python.
 * maze.py
@@ -48,7 +46,7 @@ A Collection of Code Samples Written in C++, Java, Python, Perl and Awk.
 
 ## Meta
 
-Dylan A Parsons – [@dylanpars](https://twitter.com/dylanpars) – Dylan@dylanparsons.com
+Dylan A Parsons – Dylan.Parsons@smsu.edu
 
 Distributed under the  GNU GENERAL PUBLIC LICENSE, version 3. See ``LICENSE`` for more information.
 
