@@ -44,9 +44,9 @@ A Collection of Code Samples Written in C++, Java, Python, Perl and Awk.
 * pickle.py
     * A Python program written to demonstrate the serializing and de-serializing a Python object data structure.
 
-## Meta
+## Contributors
 
-Dylan A Parsons – Dylan.Parsons@smsu.edu
+Dylan A Parsons – [@dylanparsons](https://github.com/dylanparsons) – Dylan.Parsons@smsu.edu
 
 Distributed under the  GNU GENERAL PUBLIC LICENSE, version 3. See ``LICENSE`` for more information.
 
