@@ -1,7 +1,3 @@
-; PROGRAMMER: Dylan Parsons
-; TITLE: COMP 435 PROG 1
-; DATE: 9 NOV 2016
-
 #lang racket
 
 (define (circle-area rad)
